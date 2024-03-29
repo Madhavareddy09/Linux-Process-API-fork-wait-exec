@@ -45,7 +45,7 @@ int main() {
 
 ## OUTPUT
 
-![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/16e07920-9097-42ac-b6f3-4668565e82dd)
+![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/5a896dff-d4b2-4e4b-9e24-0e43b6962a8a)
 
 
 
@@ -83,7 +83,7 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/8d9a7025-46f8-4f76-a81c-b53253f45146)
+![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/ea2d94d8-bce7-4d6f-a6bf-314fc44fff42)
 
 
 
@@ -105,7 +105,8 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/b1bbdec2-12b6-4cd7-93f5-5658a798673d)
+![image](https://github.com/Madhavareddy09/Linux-Process-API-fork-wait-exec/assets/145742470/223f9394-39ec-4dc0-a9ec-dc25ec4f261e)
+
 
 
 ### Developed by : K MADHAVA REDDY 
